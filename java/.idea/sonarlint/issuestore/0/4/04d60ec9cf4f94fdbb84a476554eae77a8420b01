@@ -1,0 +1,24 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åÌ¼üÿÿÿÿ8áì¯íœ1
+^
+java:S1659"ADeclare "tram" and all following declarations on a separate line.(·ÓÉ¨8ïì¯íœ1
+F
+java:S1481")Remove this unused "tram" local variable.(·ÓÉ¨8ïì¯íœ1
+F
+java:S1481")Remove this unused "chuc" local variable.(·ÓÉ¨8ïì¯íœ1
+D
+java:S1481"'Remove this unused "dv" local variable.(·ÓÉ¨8ïì¯íœ1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(§®ú†8òì¯íœ1
+E	java:S108")Either remove or fill this block of code.(‘Ò­™8òì¯íœ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ßÁôÿ8óì¯íœ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·ÔØ8óì¯íœ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(®¬¥A8óì¯íœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(º÷÷øÿÿÿÿ8ôì¯íœ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–«îù8ôì¯íœ1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.( æÖØ8ôì¯íœ1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(‹±¶Î8ôì¯íœ1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(½´âº8ôì¯íœ1
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¢Õ—8õì¯íœ1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ûÕ8õì¯íœ1
+T	java:S1060"9Replace this use of System.out or System.err by a logger.(ïîóh8õì¯íœ1

@@ -1,0 +1,14 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "%-20s%s" 5 times.(³´“‚şÿÿÿÿ8³Ü»Ûœ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÈÖªıÿÿÿÿÿ8³Ü»Ûœ1
+e
+java:S1659"CDeclare "height" and all following declarations on a separate line.(…ÿì‡ıÿÿÿÿ8¹Ü»Ûœ1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¨úí¿ÿÿÿÿÿ8»Ü»Ûœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¿òîøÿÿÿÿ8»Ü»Ûœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³´“‚şÿÿÿÿ8»Ü»Ûœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”çâØşÿÿÿÿ8»Ü»Ûœ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¼¹8»Ü»Ûœ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¿¬ $8»Ü»Ûœ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ğıô8»Ü»Ûœ1

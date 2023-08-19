@@ -1,0 +1,12 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øƒ¿Þøÿÿÿÿ8Óª¸±œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Áÿ˜³ûÿÿÿÿ8ãª¸±œ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¦ûö68äª¸±œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ˜¾ úÿÿÿÿ8èª¸±œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò‹Ðú8éª¸±œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷° ½8éª¸±œ1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ù¸øû8ëª¸±œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¸øû8ëª¸±œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥ŒÝ¦8ìª¸±œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ÓÐÙÿÿÿÿÿ8ìª¸±œ1

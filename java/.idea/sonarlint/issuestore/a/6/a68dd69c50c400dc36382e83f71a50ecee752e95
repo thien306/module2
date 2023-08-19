@@ -1,0 +1,8 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı„™ª8¬ğÛàœ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ê¦úÿÿÿÿ8¬ğÛàœ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô·İ8­ğÛàœ1
+E
+java:S1481"(Remove this unused "VND" local variable.(ı„™ª8¼ğÛàœ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•¦é8ÃğÛàœ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.( “©‚8Ğë‹áœ1

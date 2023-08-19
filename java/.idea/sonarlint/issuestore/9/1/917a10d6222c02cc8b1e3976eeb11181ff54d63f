@@ -1,0 +1,12 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8ªıŞÿ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÕÑÅ8ªıŞÿ1
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8ªıŞÿ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(“ıâO8±ıŞÿ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(È‹”“ùÿÿÿÿ8±ıŞÿ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ×¾ğûÿÿÿÿ8²ıŞÿ1
+S
+java:S1481"6Remove this unused "quadraticEquation" local variable.(´ÿ¶•8²ıŞÿ1
+q
+java:S1128"ORemove this unused import 'class_and_object.practice.rectangleClass.Rectangle'.(ıñşûÿÿÿÿ8ıŞ’1
